@@ -4,7 +4,7 @@ marp: true
 
 # Paige Jacaruso (Wagoner)
 ## Service Delivery Manager
-### Digital Innovation Personal Presentation 2022 alskdfjalsdkfj
+### Digital Innovation Personal Presentation 2022
 
 <!-- backgroundColor: pink
  -->
