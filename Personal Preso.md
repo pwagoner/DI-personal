@@ -39,7 +39,7 @@ marp: true
 - SDM Team
 - Positive Reinforcement
 ## Opportunities & Challenges
-- SDM Lead
+- Leadership Role
 ![bg right](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/Challenge-and-Opportunity-877x432%20(2).jpg)
 
 ---
@@ -48,7 +48,7 @@ marp: true
 - Keeping up with PMP PDU's
 - Signed up for Scrum Master cert
 ## Top Professional Accomplishment
-- SDM Lead
+- Plans
 ## Value
 - Managing relationships with valued customers
 ![bg left:33%](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/What-makes-a-leader-great-during-a-crisis.jpg)
