@@ -45,10 +45,10 @@ marp: true
 ---
 # Last 12 Months
 ## Personal Investments
-- Keeping up with PMP PDU's
-- Signed up for Scrum Master cert
+- CrossFit 4-5x a week
+- Got married after 7 years
 ## Top Professional Accomplishment
-- Plans
+- Reflection / Plans
 ## Value
 - Managing relationships with valued customers
 ![bg left:33%](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/What-makes-a-leader-great-during-a-crisis.jpg)
@@ -57,7 +57,7 @@ marp: true
 # What Did and Didn't Work Well
 ## Well
 - Customers renewing XS contracts
-- SDM team
+- SDM Team
 
 ## Not So Well
 - Customers ending XS contracts
