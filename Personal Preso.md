@@ -53,17 +53,6 @@ marp: true
 - Managing relationships with valued customers
 ![bg left:33%](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/What-makes-a-leader-great-during-a-crisis.jpg)
 
----
-# What Did and Didn't Work Well
-## Well
-- Customers renewing XS contracts
-- SDM Team
-
-## Not So Well
-- Customers ending XS contracts
-- Project contractor issues
-- More proactive instead of reactive
-![bg right](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/thumbsup.jpg)
 
 ---
 <style scoped>
