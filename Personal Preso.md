@@ -48,7 +48,7 @@ marp: true
 - CrossFit 4-5x a week
 - Got married after 7 years
 ## Top Professional Accomplishment
-- Reflection / Plans
+- Certifications
 ## Value
 - Managing relationships with valued customers
 ![bg left:33%](https://raw.githubusercontent.com/pwagoner/Wayne-Newton/main/What-makes-a-leader-great-during-a-crisis.jpg)
